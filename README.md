@@ -6,7 +6,7 @@ Ansible role for ___ feature
 Installation
 ------------
 ```bash
-ansible-galaxy install igor_mukhin.___
+ansible-galaxy install ciccio_pasticcio.___
 ```
 
 Variables
@@ -21,7 +21,7 @@ Usage
 
 ```yml
 roles:
-  - igor_mukhin.___
+  - ciccio_pasticcio.___
 ```
 
 Testing
